@@ -1,0 +1,6 @@
+training:
+  batch_size: 8
+  epochs: 10
+  learning_rate: 0.0001
+  patience: 3
+  warmup_fraction: 0.1
