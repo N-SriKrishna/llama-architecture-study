@@ -15,7 +15,6 @@ build/
 *.ipynb_checkpoints
 
 # Data
-data/
 *.csv
 *.json
 *.txt
